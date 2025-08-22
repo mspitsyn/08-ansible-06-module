@@ -1,0 +1,4 @@
+---
+# defaults file for my_role
+path: "/tmp/test.txt"
+content: "HW_NETOLOGY_TEST_ROLE"
