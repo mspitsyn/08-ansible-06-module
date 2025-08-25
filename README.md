@@ -203,9 +203,9 @@ if __name__ == '__main__':
 **Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`.**
 ![task-15-1](img/task-15-1.png)  
 
-[ссылка на collection](my_own_collection/my_own_namespace/yandex_cloud_elk/)  
+[ссылка на collection](my_own_collection/)  
   
-[ссылка на локальный архив](my_own_collection/)  
+[ссылка на локальный архив](my_own_collection/my_own_namespace/yandex_cloud_elk/)  
 
 **Запустите playbook, убедитесь, что он работает.**
 ![task-16-1](img/task-16-1.png)   
